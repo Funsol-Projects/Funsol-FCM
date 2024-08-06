@@ -51,7 +51,7 @@ Add PandaFCM dependencies in App level build.gradle.
 
 ```
     dependencies {
-        implementation 'com.github.Funsol-Projects:Funsol-FCM:1.0'
+        implementation 'com.github.Funsol-Projects:Funsol-FCM:2.0'
     }
 ```  
 
